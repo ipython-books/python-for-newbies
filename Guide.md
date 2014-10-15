@@ -39,7 +39,7 @@ Learning Python will let you do that. Python is one of the most accessible progr
 
 A few examples:
 
-* You're a journalist? Conduct your very own data analyses from scratch instead of using Excel (which crashes on large datasets anyway)
+* You're a journalist? Conduct your very own data analyses from scratch instead of using Excel (which crashes on large datasets anyway).
 * You're an amateur photograph? Organize and process your photos exactly as you wish instead of using buggy or expensive software.
 * You're a gamer? Make your own video game!
 * You're an active citizen? Download open datasets and find out how well (or bad) your city or country is doing.
@@ -63,27 +63,36 @@ All of the tools we'll be using in this guide are free and open source (anyone c
 
 You'll not only learn the essentials of the Python programming language, you'll also learn how to install it on your computer, how to organize your code, how to use a text editor, and so on. Many beginners find that the most important barrier to entry is not the language itself (which is quite simple), but everything that comes *before*. How to install it. Where to put the darned code. How to use the command-line. We'll cover all of these things here.
 
+## Table of contents
 
-## Lesson 1: know your operating system
+There are two parts. In the first part, we'll cover the fundamental tools you'll need to know before you can actually start coding. You don't have to learn them, but you're highly encouraged to take the time to do it.
 
-
-## Lesson 2: use the command-line interface
-
-
-## Lesson 3: install Python with conda
+In the second part, we'll cover the basics of the Python language.
 
 
-## Lesson 4: code in Python
+### Part 1: setting up your computer
+
+The first three lessons cover three essential tools:
+
+* The **command-line interface**: you can hardly avoid it when you learn to program.
+* **Conda**: not strictly required, this program will make your life easier when you'll install Python packages.
+* The **IPython notebook**: this tool makes programming more accessible.
+
+Part 2 assumes knowledge of these three tools.
+
+Lessons 4 and 5 are for those who want to learn best coding practices, by using a text editor and a version control system. If you want to get more quickly to actual Python programming, you can skip them on first reading and go directly to part 2.
+
+* Lesson 1: using the command-line interface
+* Lesson 2: installing Python with conda
+* Lesson 3: coding in your browser with the IPython notebook
+* Lesson 4: using a text editor
+* Lesson 5: saving your code with Git
 
 
-## Lesson 5: code in your browser with the IPython notebook
+### Part 2: learning Python
 
-
-## Lesson 6: use a text editor
-
-
-## Lesson 7: save your code with Git
-
-
-
-
+* Lesson 6: discovering Python
+* Lesson 7: interacting with your operating system
+* Lesson 8: looping over things
+* Lesson 9: creating functions
+* Lesson 10: creating modules
