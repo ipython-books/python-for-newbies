@@ -65,9 +65,7 @@ You'll not only learn the essentials of the Python programming language, you'll 
 
 ## Table of contents
 
-There are two parts. In the first part, we'll cover the fundamental tools you'll need to know before you can actually start coding. You don't have to learn them, but you're highly encouraged to take the time to do it.
-
-In the second part, we'll cover the basics of the Python language.
+There are two parts. In the first part, we'll cover the fundamental tools you'll need to know before you can actually start coding. In the second part, we'll cover the basics of the Python language.
 
 
 ### Part 1: setting up your computer
