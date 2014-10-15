@@ -83,7 +83,7 @@ Lessons 4 and 5 are for those who want to learn best coding practices, by using 
 * Lesson 1: using the command-line interface
 * Lesson 2: installing Python with conda
 * Lesson 3: coding in your browser with the IPython notebook
-* Lesson 4: using a text editor
+* Lesson 4: using a text editor
 * Lesson 5: saving your code with Git
 
 
