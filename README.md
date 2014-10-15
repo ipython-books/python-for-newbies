@@ -1,13 +1,8 @@
 Python for Newbies
 ==================
 
-This is a guide to Python for *absolute beginners*. You need to know how to use a mouse, a keyboard, a Web browser, and that's pretty much it. We'll cover the very basics of the language. However, the "bad news" is that the language is the easy part. You'll also have to learn the basics of:
+This is a guide to Python for *absolute beginners*. It contains everything you need to know for the [IPython minibook](http://ipython-books.github.io/minibook/), which focuses on Python for data analysis. However, we won't cover data analysis in this guide, only general programming and Python topics.
 
-* **the command-line interface**: do things on your computer by typing commands rather than clicking on buttons (that's more powerful)
-* **Git**: a program that will prevent your from accidentally losing your work
-* **conda**: a program for installing Python modules
-* **Python**: an accessible programming language (many kids learn it nowadays)
-* **the IPython notebook**: use Python from your Web browser
-* **a text editor**: ditch Word and use a real code editor
+This is a work in progress. Feel free to contribute!
 
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
