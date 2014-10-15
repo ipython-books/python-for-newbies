@@ -79,8 +79,8 @@ There are two parts. In the first part, we'll cover the fundamental tools you'll
 
 ### Part 2: learning Python
 
-* Lesson 6: discovering Python
-* Lesson 7: interacting with your operating system
-* Lesson 8: looping over things
-* Lesson 9: creating functions
-* Lesson 10: creating modules
+* **Lesson 6: discovering Python**. Your first steps.
+* **Lesson 7: interacting with your operating system**. Do useful stuff with Python.
+* **Lesson 8: looping over things**. Computers are very good at repeating things over and over.
+* **Lesson 9: creating functions**. Reuse your code.
+* **Lesson 10: creating modules**. Organize and distribute your code.
