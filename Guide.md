@@ -70,21 +70,11 @@ There are two parts. In the first part, we'll cover the fundamental tools you'll
 
 ### Part 1: setting up your computer
 
-The first three lessons cover three essential tools:
-
-* The **command-line interface**: you can hardly avoid it when you learn to program.
-* **Conda**: not strictly required, this program will make your life easier when you'll install Python packages.
-* The **IPython notebook**: this tool makes programming more accessible.
-
-Part 2 assumes knowledge of these three tools.
-
-Lessons 4 and 5 are for those who want to learn best coding practices, by using a text editor and a version control system. If you want to get more quickly to actual Python programming, you can skip them on first reading and go directly to part 2.
-
-* Lesson 1: using the command-line interface
-* Lesson 2: installing Python with conda
-* Lesson 3: coding in your browser with the IPython notebook
-* Lesson 4: using a text editor
-* Lesson 5: saving your code with Git
+* **Lesson 1: using the command-line interface**. You can hardly avoid it when you learn to program.
+* **Lesson 2: installing Python with conda**. Not strictly required, conda will make your life easier when you'll install Python packages.
+* **Lesson 3: coding in your browser with the IPython notebook**. This tool makes programming more accessible.
+* **Lesson 4: using a text editor** (optional). Read this to learn best coding practices. You may skip this on first reading.
+* **Lesson 5: saving your code with Git** (optional). Read this to learn best coding practices. You may skip this on first reading.
 
 
 ### Part 2: learning Python
